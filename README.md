@@ -6,7 +6,7 @@ Twitter bots written in Python using Twepy, an easy-to-use library for accessing
 </p>
 
 <p align="center">
-  <img width="919" height="535" src="https://raw.githubusercontent.com/guillermo-maquieira/tw-bots/master/amt_bttf.png">
+  <img width="1020" height="745" src="https://raw.githubusercontent.com/guillermo-maquieira/tw-bots/master/amt_bttf.png">
 </p>
 
 <p align="center">
